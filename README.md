@@ -7,7 +7,7 @@ Primeiro, acesse o link abaixo e instale o "Binário indepentente.zip"
 
 Em seguida, extráia o arquivo, e deixe a pasta extraida exatamente nesse diretório ```"C:\Users\Public\Downloads\node-v24.15.0-win-x64"```
 
-Após isso, abra o cmd e rode o seguinte comando  |  ```cmd
+Após isso, abra o cmd e rode o seguinte comando  |  ```bash 
 setx PATH "%PATH%;C:\Users\Public\Downloads\node-v24.15.0-win-x64"```
 
 Após rodar o comando, fechar e reabrir o cmd, e digitar node -v para conferir se a instalação foi realizada perfeitamente.
