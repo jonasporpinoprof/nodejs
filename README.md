@@ -3,7 +3,7 @@
 
 Primeiro, acesse o link abaixo e instale o "Binário indepentente.zip"
 
-[Instalar o Nodejs](https://nodejs.org/pt-br/download) 
+[Instalar o Nodejs](https://nodejs.org/pt-br/download){:target="_blank"} 
 
 Em seguida, extráia o arquivo, e deixe a pasta extraida exatamente nesse diretório 
 ```
