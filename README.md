@@ -3,7 +3,7 @@
 
 Primeiro, acesse o link abaixo e instale o "Binário indepentente.zip"
 
-``html
+```html
 <a href="https://nodejs.org/pt-br/download" target="_blank">
   Instalar o Nodejs
 </a>
