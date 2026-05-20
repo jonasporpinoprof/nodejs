@@ -25,3 +25,18 @@ Após rodar o comando, fechar e reabrir o cmd, e digitar node -v para conferir s
 Notas importantes
 
 Para abrir o cmd, aperte com o botão direito do mouse na área de trabalho, e crie um novo atalho com o nome "cmd", após, surgirá um prompt de comando desbloqueado em seu desktop.
+
+## Configurar o terminal padrão do VS Code
+
+No VS Code:
+
+Aperte:
+Ctrl + Shift + P
+Digite:
+Terminal: Select Default Profile
+Escolha:
+Command Prompt
+
+ou
+
+PowerShell
