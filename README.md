@@ -31,10 +31,15 @@ Para abrir o cmd, aperte com o botão direito do mouse na área de trabalho, e c
 No VS Code:
 
 Aperte:
+
 Ctrl + Shift + P
+
 Digite:
+
 Terminal: Select Default Profile
+
 Escolha:
+
 Command Prompt
 
 ou
